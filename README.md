@@ -27,10 +27,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinychoice&layout=compact&theme=dark" />
 </p>
-
----
-
-### 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://github.com/Tinychoice/Tinychoice/blob/output/github-contribution-grid-snake.svg" />
-</p>
