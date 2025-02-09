@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hello, I'm Tinychoice!
 
-<!--
-**Tinychoice/Tinychoice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 About Me
+- 🎓 Engineer student in computer science
+- 💻 Passionate developer
+- 📚 Learning languages **Japanese and Korean**
+- ✈️ Travel lover
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Contact Me
+- 💬 Discord: Tinychoice._
+- 📧 Email: alex.cullma53@gmail.com
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tinychoice&show_icons=true&theme=dark" />
+</p>
+
+---
+
+### 🏆 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinychoice&layout=compact&theme=dark" />
+</p>
+
+---
+
+### 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://github.com/Tinychoice/Tinychoice/blob/output/github-contribution-grid-snake.svg" />
+</p>
